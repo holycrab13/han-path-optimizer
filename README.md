@@ -9,3 +9,6 @@ All feedback greatly appreciated!
 
 Excuse the ugly developer art
 ![alt text](/mod-example.png)
+
+Seeker Setup
+![alt text](/setup-example.png)
