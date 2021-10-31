@@ -14,4 +14,4 @@ Excuse the ugly developer art
 
 Seeker Setup
 
-![alt text](/setup-example.png =250px)
+![alt text](/setup-example.png)
