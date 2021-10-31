@@ -8,7 +8,10 @@ I found some rare cases of local errors but was unable to nail them down so far.
 All feedback greatly appreciated!
 
 Excuse the ugly developer art
+
 ![alt text](/mod-example.png)
 
+
 Seeker Setup
+
 ![alt text](/setup-example.png)
