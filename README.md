@@ -9,9 +9,10 @@ All feedback greatly appreciated!
 
 Excuse the ugly developer art
 
-![alt text](/mod-example.png)
 
 
 Seeker Setup
 
-<img src="setup-example.jpg" alt="drawing" width="200"/>
+![alt text](/setup-example.png =250x)
+
+
