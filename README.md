@@ -8,4 +8,4 @@ I found some rare cases of local errors but was unable to nail them down so far.
 All feedback greatly appreciated!
 
 Excuse the ugly developer art
-![alt text](https://github.com/holycrab13/han-path-optimizer/blob/master/mod-example.png?raw=true)
+![alt text](/mod-example.png)
